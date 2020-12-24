@@ -1,1 +1,1 @@
-# DeCentChats-
+# DeCentChat
